@@ -1,1 +1,1 @@
-# brain-rag
+# health-rag
